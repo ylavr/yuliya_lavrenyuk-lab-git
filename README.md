@@ -10,7 +10,7 @@ In this lab, you will practice submitting a lab assignment via Git to GitHub.
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. There ais only a simple dummy question to be solved.
+Open the `main.ipynb` file in the `your-code` directory. There is only a simple dummy question to be solved.
 
 ## Deliverables
 
